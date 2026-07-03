@@ -534,6 +534,11 @@
         updateRow(existing);
       } else {
         cart.push({ ...p, qty: 1 });
+        if (cart.length === 1) {
+          cartState.body.innerHTML = '';
+          cartState.empty.style.display = 'none';
+          cartState.footer.style.display = 'block';
+        }
         const row = renderItemRow(cart[cart.length - 1]);
         cartState.body.appendChild(row);
         cartState.rows.set(productId, row);
