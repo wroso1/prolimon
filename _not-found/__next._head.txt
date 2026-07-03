@@ -1,0 +1,5 @@
+1:"$Sreact.fragment"
+2:I[76779,["/_next/static/chunks/14plh3vhmgxn7.js","/_next/static/chunks/0ty0.923-lts6.js"],"ViewportBoundary"]
+3:I[76779,["/_next/static/chunks/14plh3vhmgxn7.js","/_next/static/chunks/0ty0.923-lts6.js"],"MetadataBoundary"]
+4:"$Sreact.suspense"
+0:{"rsc":["$","$1","h",{"children":[["$","meta",null,{"name":"robots","content":"noindex"}],["$","$L2",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#8bc34a"}]]}],["$","div",null,{"hidden":true,"children":["$","$L3",null,{"children":["$","$4",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Limón & Co. | Insumos frescos para bares"}],["$","meta","1",{"name":"description","content":"Sumo de limón, aritos de limón y crispetas de la mejor calidad para tu bar. Pide fácil y rápido por WhatsApp."}],["$","meta","2",{"name":"generator","content":"v0.app"}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"RDIqlWv0579Sku5mjqnjC"}
